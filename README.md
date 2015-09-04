@@ -1,7 +1,7 @@
 Welcome
 ================
-<p>Welcome to CodeRhymes where code's do rhyme.</p>
-<p><b>Plugins:</b></p>
+<p style="margin:0">Welcome to CodeRhymes where code's do rhyme.</p>
+<p style="margin:0"><b>Plugins:</b></p>
 <ul>
   <li>Angularjs</li>
   <li>JQuery</li>
